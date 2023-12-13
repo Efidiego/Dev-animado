@@ -473,7 +473,7 @@
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #eae4df;
+    background-color: #f5ceae;
     position: absolute;
     right: 16px;
     top: 24px;
@@ -529,7 +529,7 @@
     width: 14px;
     height: 4px;
     border-radius: 50px 0 0 50px;
-    background-color: #e0dddb;
+    background-color: #d44646;
     position: absolute;
     top: 50%;
     -webkit-transform: translateY(-50%);
@@ -633,7 +633,7 @@
     position: absolute;
     bottom: 150px;
     z-index: 21;
-    border-bottom: 6px solid #ce4646;
+    border-bottom: 6px solid #5c811f;
     border-left: 2px solid transparent;
     border-right: 2px solid transparent;
   }
@@ -645,7 +645,7 @@
     position: absolute;
     bottom: 0;
     z-index: 21;
-    border-bottom: 4px solid #af4242;
+    border-bottom: 4px solid #94c249;
     border-left: 2px solid transparent;
     border-right: 2px solid transparent; 
   }
